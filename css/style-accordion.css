@@ -1,0 +1,49 @@
+.img-collap{
+	width: 100%;
+	height: 100%;
+}
+#collap1{
+	margin-top: 5px;
+}
+.text-collap>a{
+	color: #a3a4a8;
+}
+.text-collap>p>i{
+	color: #e6b91e;
+}
+.text-collap>a:hover{
+	color: #111;
+	text-decoration: none;
+}
+.panel-heading>h4>a:hover{
+	text-decoration: none;
+	color: #111;
+}
+.panel-heading>h4>a{
+	color: #a3a4a8;
+	font-weight: bold;
+}
+#toppcgames{
+	background-color: #f8f8f8;
+	margin-top: 30px;
+}
+.top-pc-game>h5>span{
+	font-weight: bold;
+	color: #111;
+}
+.top-pc-game{
+	padding: 10px;
+}
+.top-pc-game>div>button{
+	background-color: #e5b922;
+	color: #ffff;
+	border: 0px;
+	outline: 0; 
+}
+.top-pc-game>div>a:hover{
+	text-decoration: none;
+	color: #a3a4a8;
+}
+.top-pc-game>div>a{
+	color: #111;
+}
